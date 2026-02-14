@@ -1,4 +1,4 @@
-# Name: Arian
+# Name: Aryan Rudani
 # Student Number: 041171391
 # Course Code: CST8917
 # Assignment no: 1
